@@ -10,3 +10,10 @@ Data to generate information, information to generate learning, learning to gene
 - ⚡Fans of horror and science fiction series and movies.
 - 📫 How to reach me martinrvilla@gmail.com
 
+### Technologies
+
+- Excel
+- Power Query
+- Power BI
+- SQL
+- Google Analytics
